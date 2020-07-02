@@ -1,8 +1,10 @@
 # Clase Programación
 
 ## Proyectos
-[Easy landing page](https://cdestructor12.github.io/Clase-Programacion/proyecto(18-6-20)/)
+[Easy landing page](https://cdestructor12.github.io/Clase-Programacion/proyecto(18-6-20)/) |
 [Proyecto de forms](https://cdestructor12.github.io/Clase-Programacion/Proyecto(2-7-20)/)
+
+## Detalles
 
  Clase de programación | UCATECI | R2-2020
 
