@@ -1,4 +1,4 @@
-# Clase Programacion
- Clase de programacion | UCATECI | R2-2020
+# Clase Programación
+ Clase de programación | UCATECI | R2-2020
 
-Aqui estaran todas las clases de programacion.
+Aqui estaran todas las clases de programación.
